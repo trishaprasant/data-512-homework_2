@@ -69,13 +69,4 @@ Before starting the analysis, I expected to find biases related to the represent
 The analysis results reveal important insights about how knowledge is distributed across the globe. There is a stark contrast in article coverage and quality between various countries, indicating that the internet, while a powerful tool for democratizing information, also reflects existing inequalities. Countries with robust internet infrastructure (represented by European countries) and active online communities tend to have a more substantial presence on platforms like Wikipedia. At the same time, those facing challenges such as limited access or lower engagement levels need to be included. This disparity highlights the need to promote equitable knowledge sharing and representation in the digital world, suggesting that the internet is both an avenue for empowerment in social classes and also a method for exclusion.
 
 #### How might a researcher supplement or transform this dataset to potentially correct for the limitations/biases you observed?
-<<<<<<< HEAD
 To address the limitations and biases observed in the dataset, researchers could supplement the existing data with additional sources, such as demographic and socio-economic information from international databases like the World Bank or UN datasets. This could help orient these findings and provide a more varied understanding of things that might influence article creation and quality. Additionally, researchers could incorporate qualitative data, such as surveys or interviews with Wikipedia editors from diverse backgrounds, to gain insights into their motivations and experiences. 
-
-
-
-
-
-=======
-To address the limitations and biases observed in the dataset, researchers could supplement the existing data with additional sources, such as demographic and socio-economic information from international databases like the World Bank or UN datasets. This could help orient these findings and provide a more varied understanding of things that might influence article creation and quality. Additionally, researchers could incorporate qualitative data, such as surveys or interviews with Wikipedia editors from diverse backgrounds, to gain insights into their motivations and experiences. 
->>>>>>> a619a83 (updated README and notebook with comments.)
